@@ -1,1 +1,1 @@
-# Instalación, Mnatenimiento, Reparación de Sistemas Computacionales
+# Instalación, Mantenimiento, Reparación de Sistemas Computacionales
